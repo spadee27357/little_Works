@@ -1,0 +1,15 @@
+Line 23: Class ACTSUPPORTLibCtl.ActSupport of control ActSupport1 was not a loaded control class.
+Line 28: Class ACTPCUSBLibCtl.ActQCPUQUSB of control ActQCPUQUSB1 was not a loaded control class.
+Line 33: Class ACTLLTLibCtl.ActLLT of control ActLLT1 was not a loaded control class.
+Line 43: Class ACTETHERLibCtl.ActQNUDECPUTCP of control ActQNUDECPUTCP1 was not a loaded control class.
+Line 48: Class ACTETHERLibCtl.ActQJ71E71TCP of control ActQJ71E71TCP1 was not a loaded control class.
+Line 25: The property name OleObjectBlob in ActSupport1 is invalid.
+Line 30: The property name OleObjectBlob in ActQCPUQUSB1 is invalid.
+Line 36: The property name _cx in ActLLT1 is invalid.
+Line 37: The property name _cy in ActLLT1 is invalid.
+Line 38: The property name ActCpuType in ActLLT1 is invalid.
+Line 39: The property name ActTimeOut in ActLLT1 is invalid.
+Line 40: The property name ActNetworkNumber in ActLLT1 is invalid.
+Line 41: The property name ActStationNumber in ActLLT1 is invalid.
+Line 45: The property name OleObjectBlob in ActQNUDECPUTCP1 is invalid.
+Line 50: The property name OleObjectBlob in ActQJ71E71TCP1 is invalid.
